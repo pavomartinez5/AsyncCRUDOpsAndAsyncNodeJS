@@ -1,0 +1,55 @@
+20250402	11:55:06	0bc84b39-353c-4a0c-b7ad-b76737b3b45d	Error: Not allowed by CORS
+20250402	15:04:07	4cbae370-3fa3-497e-88d8-370601a17c11	TypeError: req.accepted is not a function
+20250402	23:16:58	e9af8a7f-ed8d-46e1-8078-12afb97dffe8	Error: ENOENT: no such file or directory, stat 'C:\Users\pavom\OneDrive\Documents\6_Programs\Node js\How to Setup Routes with Express Router Node JS\express_intro\routes\new-page.html'
+20250403	11:46:13	5d9b67ee-6127-4077-8648-89654bf22f98	TypeError: data.setEmployees is not a function
+20250403	11:47:15	e22795e6-4efc-4f6f-9b50-9127608bb117	TypeError: data.setEmployees is not a function
+20250403	11:48:43	9b93c0b4-cf79-4033-8856-147849c949a9	TypeError: data.setEmployees is not a function
+20250403	11:49:01	2bb9e924-9f54-4ed8-bd0b-47baac02119e	TypeError: data.setEmployees is not a function
+20250403	11:50:01	7cbd4343-a3da-4d4b-8736-0535e256ee7f	TypeError: data.setEmployees is not a function
+20250403	11:50:01	e87a2b18-75e4-4b60-aaaf-84034cafa7cf	TypeError: data.setEmployees is not a function
+20250403	11:51:19	1835d14b-d655-4d64-acc0-13577f870fc9	TypeError: data.setEmployees is not a function
+20250403	11:52:09	4c2c80ea-f730-4fa2-ab2a-36a6d83020ea	TypeError: data.setEmployees is not a function
+20250403	11:52:27	70867e0c-1127-46f0-a945-cf3806fbd273	TypeError: data.setEmployees is not a function
+20250403	11:55:10	0e199f2b-257c-413f-a591-d0a5ccfb4a13	TypeError: data.setEmployees is not a function
+20250403	11:56:45	8b11d15a-6a63-4d25-873e-d821b67b16e3	TypeError: data.setEmployees is not a function
+20250420	01:41:50	fb415462-7bee-4f95-9f88-1a75f662551c	ReferenceError: whitelist is not defined
+20250420	01:43:11	ac9d2d04-e861-486d-afcd-35fc621a94f8	ReferenceError: whitelist is not defined
+20250420	01:43:23	1b174475-484e-4cb8-a982-6719c5d0fe30	ReferenceError: whitelist is not defined
+20250420	01:45:02	5a38329e-257c-435f-bd32-d9a5a8bcf647	ReferenceError: whitelist is not defined
+20250420	01:45:26	b7126469-93d3-4f20-9c02-23f72e78ebfb	ReferenceError: whitelist is not defined
+20250420	01:45:32	48625336-2aa4-4775-8484-451152cff989	ReferenceError: whitelist is not defined
+20250420	01:48:32	d74b10da-c93b-49e9-a38d-bf8da2593374	ReferenceError: whitelist is not defined
+20250420	01:48:33	8239c273-dce8-4438-b52b-63a6743fc722	ReferenceError: whitelist is not defined
+20250420	01:50:20	3279420f-4160-4cd1-916f-adf48ed5878a	ReferenceError: whitelist is not defined
+20250420	01:50:20	069eea66-a1dc-4c80-a9fc-fe2b56ee46ed	ReferenceError: whitelist is not defined
+20250420	01:52:48	ab63132e-ec44-449c-87d5-9924b963683a	ReferenceError: whitelist is not defined
+20250420	01:53:14	4703778e-34e5-49b8-8e5f-5ef0924d3841	ReferenceError: whitelist is not defined
+20250420	01:54:22	39c10e14-e049-443d-b6c3-dba3b6aa3706	ReferenceError: whitelist is not defined
+20250420	01:54:42	e592b8b8-a6e5-4233-b006-b67489b9e01b	ReferenceError: whitelist is not defined
+20250420	01:54:58	9b453f3f-fc91-4789-bf38-d4d768d17922	ReferenceError: whitelist is not defined
+20250420	01:56:03	06f93dfa-009c-4044-9414-9fd0169f7315	ReferenceError: whitelist is not defined
+20250420	01:57:28	33425a8a-e9c6-4724-9de7-e9dc97a433c8	ReferenceError: whitelist is not defined
+20250420	02:05:17	ee441f80-027e-4e92-8d60-ef75e715450a	ReferenceError: whitelist is not defined
+20250420	02:05:42	18329a8f-94ed-4fde-bacf-3cd2b8cd7440	ReferenceError: whitelist is not defined
+20250420	02:06:28	ec5d3243-1661-40f5-b8f8-03b998f0492d	ReferenceError: whitelist is not defined
+20250420	02:08:03	b5f09421-c890-4aeb-949c-a525b77a5b1c	ReferenceError: whitelist is not defined
+20250420	02:08:34	b2e27555-60bd-4eb2-a472-3b5a45da0166	ReferenceError: whitelist is not defined
+20250420	02:11:47	e38a56c2-13a2-4760-b0bb-988ffcb023bf	ReferenceError: whitelist is not defined
+20250420	11:43:31	47e1cee6-148f-4bce-85b1-080ecdccf0a8	ReferenceError: roles is not defined
+20250420	11:44:04	777dd140-2a79-427f-a582-4717f6613805	ReferenceError: roles is not defined
+20250420	11:44:14	94a7da64-7db8-433c-8ca0-a09f05cb612e	ReferenceError: roles is not defined
+20250420	11:46:26	234cb9de-1a27-402a-97ac-52e1750a82cf	ReferenceError: roles is not defined
+20250420	12:49:40	6739e870-25cc-4260-8420-bcd35c5af8d2	ReferenceError: roles is not defined
+20250420	13:04:59	1d417104-078e-4d40-b071-ac7b7a40c644	ReferenceError: roles is not defined
+20250420	13:05:48	4dafd862-bdb4-4593-8f17-3ecac88f65fc	ReferenceError: roles is not defined
+20250420	13:07:44	53c02233-4853-4481-a9c1-cfff436731a3	ReferenceError: roles is not defined
+20250420	13:09:18	18fc1aa0-d342-43fe-8e8a-8b94fc3d8c15	ReferenceError: roles is not defined
+20250420	13:51:26	7d155768-c405-4cfd-ab10-3a5fcaf9bcbf	ReferenceError: roles is not defined
+20250420	13:51:35	1e5c0bf6-17dc-4fe9-902c-982cd0be89d6	ReferenceError: roles is not defined
+20250420	13:52:44	45d2531c-57b8-4d9a-b264-daac3c6c6818	ReferenceError: roles is not defined
+20250420	14:28:43	67ac7919-6e96-4df5-b981-fb7b368f763f	ReferenceError: roles is not defined
+20250420	14:29:03	b8008a76-db18-4117-9aa4-3da6829d0234	ReferenceError: roles is not defined
+20250420	14:50:25	3045758c-858a-466d-a99f-539a01b119e7	ReferenceError: roles is not defined
+20250420	14:59:29	193233ad-fb57-4a11-b3fb-cca7931aaf8f	ReferenceError: roles is not defined
+20250420	14:59:37	ac2a73b1-3dce-4ef7-814c-0d5813ac7aff	ReferenceError: roles is not defined
+20250420	15:05:17	51c4d5b5-5d09-414e-8fe2-6ce7949457ad	ReferenceError: roles is not defined
